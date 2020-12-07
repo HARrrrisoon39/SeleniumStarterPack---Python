@@ -1,3 +1,3 @@
 # SeleniumStarterPack---Python
 
-Discussed the selenium instruction..
+Discussed the selenium instruction.
